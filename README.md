@@ -1,4 +1,4 @@
-Hey there! I'm Dmitriy.
+Hey there! I'm Dmitriy.<br>
 👨🏻‍💻 About Me
 🤔   I'm from Herlzliya, Israel.
 🌱   I'm learning about development processes
