@@ -3,5 +3,5 @@ Hey there! I'm Dmitriy.<br>
 -🤔   I'm from Herlzliya, Israel.<br>
 -🌱   I'm learning about development processes.<br>
 -🛠 Stack<br>
--💻 Tech:   Python | C# | Fast | HTML | CSS | SQL <br>
+-💻 Tech:   Python | C# | HTML | CSS | SQL <br> | Flask
 -🔨 Responsibilities:  Designing and developing scalable and efficient backend systems.<br>
